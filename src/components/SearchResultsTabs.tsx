@@ -1,4 +1,4 @@
-import { Sparkles, Link2, BookOpen, Globe } from 'lucide-react';
+import { Sparkles, Link2, BookOpen, Database } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 export type TabType = 'resposta' | 'links' | 'ebooks' | 'axway';
@@ -15,7 +15,7 @@ export default function SearchResultsTabs({ activeTab, onTabChange }: SearchResu
     { id: 'resposta', label: t('tabs.answer'), icon: <Sparkles className="w-4 h-4" /> },
     { id: 'links', label: t('tabs.links'), icon: <Link2 className="w-4 h-4" /> },
     { id: 'ebooks', label: t('tabs.ebooks'), icon: <BookOpen className="w-4 h-4" /> },
-    { id: 'axway', label: 'Axway', icon: <Globe className="w-4 h-4" /> },
+    { id: 'axway', label: 'Axway', icon: <Database className="w-4 h-4" /> },
   ];
 
   return (
