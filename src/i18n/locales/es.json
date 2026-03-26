@@ -1,0 +1,113 @@
+{
+  "header": {
+    "banner_prefix": "Descarga",
+    "banner_highlight": "gratuitamente",
+    "banner_suffix": "la edición especial de Axway",
+    "tagline": "news, trends and insights",
+    "powered_by": "Powered by",
+    "create_account": "Crea tu cuenta"
+  },
+  "nav": {
+    "latest": "Últimas",
+    "categories": "Categorías",
+    "newsletter": "Newsletter",
+    "events": "Eventos"
+  },
+  "latest": {
+    "title": "Últimas publicaciones",
+    "quick_read": "Lectura rápida",
+    "page": "Ir a la página {{page}}"
+  },
+  "tabs": {
+    "answer": "Respuesta",
+    "links": "Links",
+    "ebooks": "E-books"
+  },
+  "categories": {
+    "latest": "Últimas",
+    "ebooks": "E-books Gratuitos",
+    "banking": "Banca y Servicios Financieros",
+    "life_science": "Life Science",
+    "healthcare": "HealthCare",
+    "automotive": "Automotriz",
+    "energy": "Energía y Servicios Públicos",
+    "government": "Gobierno",
+    "public_sector": "Sector Público",
+    "manufacturing": "Manufactura y Bienes Empaquetados",
+    "transport": "Transporte y Logística",
+    "retail": "Retail"
+  },
+  "footer": {
+    "solutions": "Soluciones",
+    "content": "Contenido",
+    "useful_links": "Enlaces útiles",
+    "latest_publications": "Últimas publicaciones",
+    "ebooks": "E-books",
+    "events": "Eventos",
+    "about": "Sobre",
+    "contact": "Contacto",
+    "terms": "Términos de Uso",
+    "privacy": "Política de Privacidad",
+    "cookies": "Política de Cookies"
+  },
+  "outros_setores": {
+    "title": "Otros sectores",
+    "automotive_label": "Automotriz",
+    "automotive_description": "Perspectivas sobre tecnología, sustentabilidad y movilidad inteligente.",
+    "energy_label": "Energía y Servicios Públicos",
+    "energy_description": "Soluciones innovadoras y tendencias en el sector de energía y servicios públicos.",
+    "government_label": "Gobierno",
+    "government_description": "Transformando el sector público con tecnología: insights sobre gobernanza digital, transparencia y eficiencia.",
+    "transport_label": "Transporte y Logística",
+    "transport_description": "Tecnologías disruptivas y estrategias para optimizar la cadena de suministro y el transporte."
+  },
+  "nossos_conteudos": {
+    "title": "Nuestros Contenidos",
+    "description": "La transformación digital requiere velocidad para atender demandas poderosas y estar atento a lo que viene rompiendo los modelos antiguos a través del nuevo ecosistema fintech.",
+    "banking_label": "Banca y Servicios Financieros",
+    "banking_description": "La transformación digital de los sistemas bancarios y el nuevo ecosistema fintech.",
+    "life_science_label": "Life Science",
+    "life_science_description": "Innovaciones en biotecnología, investigación clínica y desarrollo farmacéutico.",
+    "healthcare_label": "Healthcare",
+    "healthcare_description": "Innovaciones en salud digital, integración de datos clínicos y experiencia del paciente.",
+    "automotive_label": "Automotriz",
+    "automotive_description": "Tendencias en movilidad, vehículos conectados y transformación de la industria automotriz.",
+    "energy_label": "Energía",
+    "energy_description": "Transición energética, redes inteligentes y sostenibilidad en el sector energético.",
+    "government_label": "Gobierno",
+    "government_description": "Modernización de servicios públicos y transformación digital gubernamental.",
+    "public_sector_label": "Sector Público",
+    "public_sector_description": "Eficiencia operacional e innovación en instituciones y organismos públicos.",
+    "manufacturing_label": "Manufactura",
+    "manufacturing_description": "Industria 4.0, automatización inteligente y optimización de procesos productivos.",
+    "transport_label": "Transporte y Logística",
+    "transport_description": "Tecnologías disruptivas y estrategias para optimizar la cadena de suministro.",
+    "retail_label": "Retail",
+    "retail_description": "Tendencias y nuevas tecnologías para cautivar y fidelizar a los consumidores."
+  },
+  "answer": {
+    "generating": "Generando respuesta...",
+    "no_results": "No se encontraron artículos relevantes para generar una respuesta. Intenta refinar tu búsqueda.",
+    "error_title": "Error al generar respuesta",
+    "retry": "Intentar de nuevo"
+  },
+  "search": {
+    "title": "Elige tu modo de lectura",
+    "placeholder": "Dime lo que buscas en MFT",
+    "placeholders": [
+      "¿Cómo funciona el MFT?",
+      "APIs en el ecosistema financiero digital",
+      "Soluciones de IA para integración"
+    ],
+    "loading_model": "Cargando modelo de búsqueda...",
+    "model_ready": "Modelo listo",
+    "searching": "Buscando...",
+    "results_found": "{{count}} resultados encontrados para \"{{query}}\"",
+    "relevance": "Relevancia",
+    "no_results": "No se encontraron resultados. Prueba otros términos.",
+    "new_search": "Nueva búsqueda",
+    "back": "Volver",
+    "mode_axway": "Axway",
+    "mode_content": "Content"
+  }
+}

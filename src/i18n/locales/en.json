@@ -1,0 +1,145 @@
+{
+  "header": {
+    "banner_prefix": "Download",
+    "banner_highlight": "for free",
+    "banner_suffix": "the special Axway edition",
+    "tagline": "news, trends and insights",
+    "powered_by": "Powered by",
+    "create_account": "Create account"
+  },
+  "nav": {
+    "latest": "Latest",
+    "categories": "Categories",
+    "ebooks": "E-books",
+    "newsletter": "Newsletter",
+    "events": "Events"
+  },
+  "common": {
+    "back_home": "Back to home"
+  },
+  "latest": {
+    "title": "Latest publications",
+    "quick_read": "Quick read",
+    "page": "Go to page {{page}}"
+  },
+  "tabs": {
+    "answer": "Answer",
+    "links": "Links",
+    "ebooks": "E-books"
+  },
+  "categories": {
+    "latest": "Latest",
+    "ebooks": "Free E-books",
+    "banking": "Banking & Financial Services",
+    "life_science": "Life Science",
+    "healthcare": "HealthCare",
+    "automotive": "Automotive",
+    "energy": "Energy & Utilities",
+    "government": "Government",
+    "public_sector": "Public Sector",
+    "manufacturing": "Manufacturing & Packaged Goods",
+    "transport": "Transport & Logistics",
+    "retail": "Retail"
+  },
+  "answer": {
+    "generating": "Generating answer...",
+    "no_results": "No relevant articles found to generate an answer. Try refining your search.",
+    "error_title": "Error generating answer",
+    "retry": "Try again"
+  },
+  "article": {
+    "back": "Back",
+    "back_home": "Go to home",
+    "min_read": "min read",
+    "not_found": "Article not found",
+    "not_found_desc": "The article you are looking for does not exist or has been removed."
+  },
+  "search": {
+    "title": "Choose your reading mode",
+    "placeholder": "Tell me what you're looking for in MFT",
+    "placeholders": [
+      "How does MFT work?",
+      "APIs in the digital financial ecosystem",
+      "AI solutions for integration"
+    ],
+    "loading_model": "Loading search model...",
+    "model_ready": "Model ready",
+    "searching": "Searching...",
+    "results_found": "{{count}} results found for \"{{query}}\"",
+    "relevance": "Relevance",
+    "no_results": "No results found. Try different terms.",
+    "new_search": "New search",
+    "back": "Back",
+    "mode_axway": "Axway",
+    "mode_content": "Content"
+  },
+  "footer": {
+    "solutions": "Solutions",
+    "content": "Content",
+    "useful_links": "Useful Links",
+    "latest_publications": "Latest publications",
+    "ebooks": "E-books",
+    "events": "Events",
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  },
+  "outros_setores": {
+    "title": "Other sectors",
+    "automotive_label": "Automotive",
+    "automotive_description": "Insights on technology, sustainability and smart mobility.",
+    "energy_label": "Energy & Utilities",
+    "energy_description": "Innovative solutions and trends in the energy and public services sector.",
+    "government_label": "Government",
+    "government_description": "Transforming the public sector with technology: insights on digital governance, transparency and efficiency.",
+    "transport_label": "Transport & Logistics",
+    "transport_description": "Disruptive technologies and strategies to optimize the supply chain and transportation."
+  },
+  "nossos_conteudos": {
+    "title": "Our Content",
+    "description": "Digital transformation requires speed to meet powerful demands and staying alert to what is disrupting old models through the new fintech ecosystem.",
+    "banking_label": "Banking & Financial Services",
+    "banking_description": "The digital transformation of banking systems and the new fintech ecosystem.",
+    "life_science_label": "Life Science",
+    "life_science_description": "Innovations in biotechnology, clinical research and pharmaceutical development.",
+    "healthcare_label": "Healthcare",
+    "healthcare_description": "Innovations in digital health, clinical data integration and patient experience.",
+    "automotive_label": "Automotive",
+    "automotive_description": "Trends in mobility, connected vehicles and automotive industry transformation.",
+    "energy_label": "Energy",
+    "energy_description": "Energy transition, smart grids and sustainability in the energy sector.",
+    "government_label": "Government",
+    "government_description": "Modernization of public services and governmental digital transformation.",
+    "public_sector_label": "Public Sector",
+    "public_sector_description": "Operational efficiency and innovation in public institutions and agencies.",
+    "manufacturing_label": "Manufacturing",
+    "manufacturing_description": "Industry 4.0, intelligent automation and optimization of production processes.",
+    "transport_label": "Transport & Logistics",
+    "transport_description": "Disruptive technologies and strategies to optimize the supply chain.",
+    "retail_label": "Retail",
+    "retail_description": "Trends and new technologies to captivate and engage consumers."
+  },
+  "ebook": {
+    "page_title": "Free E-books",
+    "page_subtitle": "Download our exclusive e-books and guides on digital transformation, security, APIs and more.",
+    "download_free": "Download Free",
+    "download_title": "Download your E-book",
+    "download_subtitle": "Fill in your details to download for free.",
+    "download_button": "Download E-book",
+    "download_success_title": "Download started!",
+    "download_success_message": "Your download will start automatically in a moment.",
+    "download_note": "Fill the form to unlock the download.",
+    "form_name": "Name",
+    "form_name_placeholder": "Your full name",
+    "form_email": "Email",
+    "form_email_placeholder": "your@email.com",
+    "privacy_notice": "Your data is safe with us and will not be shared.",
+    "no_ebooks": "No e-books available",
+    "no_ebooks_subtitle": "New content coming soon.",
+    "not_found": "E-book not found",
+    "back_to_ebooks": "Back to E-books",
+    "other_ebooks": "Other E-books"
+  }
+}

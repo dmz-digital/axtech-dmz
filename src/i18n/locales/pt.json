@@ -1,0 +1,145 @@
+{
+  "header": {
+    "banner_prefix": "Faça",
+    "banner_highlight": "download gratuitamente",
+    "banner_suffix": "da edição especial da Axway",
+    "tagline": "news, trends and insights",
+    "powered_by": "Powered by",
+    "create_account": "Crie sua conta"
+  },
+  "nav": {
+    "latest": "Últimas",
+    "categories": "Categorias",
+    "ebooks": "E-books",
+    "newsletter": "Newsletter",
+    "events": "Eventos"
+  },
+  "common": {
+    "back_home": "Voltar ao início"
+  },
+  "latest": {
+    "title": "Últimas publicações",
+    "quick_read": "Leitura rápida",
+    "page": "Ir para página {{page}}"
+  },
+  "tabs": {
+    "answer": "Resposta",
+    "links": "Links",
+    "ebooks": "E-books"
+  },
+  "categories": {
+    "latest": "Últimas",
+    "ebooks": "E-books Gratuitos",
+    "banking": "Banking e Financial Services",
+    "life_science": "Life Science",
+    "healthcare": "HealthCare",
+    "automotive": "Automotivo",
+    "energy": "Energia e Utilitários",
+    "government": "Governo",
+    "public_sector": "Setor Público",
+    "manufacturing": "Manufatura e Packaged Goods",
+    "transport": "Transporte e logística",
+    "retail": "Varejo"
+  },
+  "answer": {
+    "generating": "Gerando resposta...",
+    "no_results": "Nenhum artigo relevante encontrado para gerar uma resposta. Tente refinar sua busca.",
+    "error_title": "Erro ao gerar resposta",
+    "retry": "Tentar novamente"
+  },
+  "article": {
+    "back": "Voltar",
+    "back_home": "Ir para o início",
+    "min_read": "min de leitura",
+    "not_found": "Artigo não encontrado",
+    "not_found_desc": "O artigo que você está procurando não existe ou foi removido."
+  },
+  "search": {
+    "title": "Escolha seu modo de leitura",
+    "placeholder": "Me diga o que você procura em MFT",
+    "placeholders": [
+      "Como funciona o MFT?",
+      "APIs no ecossistema digital financeiro",
+      "Soluções de IA para integração"
+    ],
+    "loading_model": "Carregando modelo de busca...",
+    "model_ready": "Modelo pronto",
+    "searching": "Buscando...",
+    "results_found": "{{count}} resultados encontrados para \"{{query}}\"",
+    "relevance": "Relevância",
+    "no_results": "Nenhum resultado encontrado. Tente outros termos.",
+    "new_search": "Nova busca",
+    "back": "Voltar",
+    "mode_axway": "Axway",
+    "mode_content": "Content"
+  },
+  "footer": {
+    "solutions": "Soluções",
+    "content": "Conteúdo",
+    "useful_links": "Links úteis",
+    "latest_publications": "Últimas publicações",
+    "ebooks": "E-books",
+    "events": "Eventos",
+    "about": "Sobre",
+    "contact": "Contato",
+    "terms": "Termos de Uso",
+    "privacy": "Política de Privacidade",
+    "cookies": "Política de Uso de Cookies"
+  },
+  "outros_setores": {
+    "title": "Outros setores",
+    "automotive_label": "Automotivo",
+    "automotive_description": "Perspectivas sobre tecnologia, sustentabilidade e mobilidade inteligente.",
+    "energy_label": "Energia e Utilitários",
+    "energy_description": "Soluções inovadoras e tendências no setor de energia e serviços públicos.",
+    "government_label": "Governo",
+    "government_description": "Transformando o setor público com tecnologia: insights sobre governança digital, transparência e eficiência.",
+    "transport_label": "Transporte e Logística",
+    "transport_description": "Tecnologias disruptivas e estratégias para otimizar a cadeia de suprimentos e o transporte."
+  },
+  "nossos_conteudos": {
+    "title": "Nossos Conteúdos",
+    "description": "A transformação digital requer velocidade para atender demandas poderosas e estar atento ao que vem rompendo os modelos antigos pelo novo ecossistema das fintechs.",
+    "banking_label": "Banking e Financial Services",
+    "banking_description": "A transformacao digital dos sistemas bancarios e o novo ecossistema das fintechs.",
+    "life_science_label": "Life Science",
+    "life_science_description": "Inovacoes em biotecnologia, pesquisa clinica e desenvolvimento farmaceutico.",
+    "healthcare_label": "Healthcare",
+    "healthcare_description": "Inovacoes em saude digital, integracao de dados clinicos e experiencia do paciente.",
+    "automotive_label": "Automotivo",
+    "automotive_description": "Tendencias em mobilidade, veiculos conectados e transformacao da industria automotiva.",
+    "energy_label": "Energia",
+    "energy_description": "Transicao energetica, redes inteligentes e sustentabilidade no setor de energia.",
+    "government_label": "Governo",
+    "government_description": "Modernizacao de servicos publicos e transformacao digital governamental.",
+    "public_sector_label": "Setor Publico",
+    "public_sector_description": "Eficiencia operacional e inovacao em instituicoes e orgaos publicos.",
+    "manufacturing_label": "Manufatura",
+    "manufacturing_description": "Industria 4.0, automacao inteligente e otimizacao de processos produtivos.",
+    "transport_label": "Transporte e Logistica",
+    "transport_description": "Tecnologias disruptivas e estrategias para otimizar a cadeia de suprimentos.",
+    "retail_label": "Varejo",
+    "retail_description": "Tendencias e novas tecnologias para cativar e engajar os consumidores."
+  },
+  "ebook": {
+    "page_title": "E-books Gratuitos",
+    "page_subtitle": "Baixe nossos e-books e guias exclusivos sobre transformacao digital, seguranca, APIs e muito mais.",
+    "download_free": "Baixar Gratis",
+    "download_title": "Baixe seu E-book",
+    "download_subtitle": "Preencha seus dados para fazer o download gratuito.",
+    "download_button": "Baixar E-book",
+    "download_success_title": "Download iniciado!",
+    "download_success_message": "Seu download comecara automaticamente em instantes.",
+    "download_note": "Preencha o formulario para liberar o download.",
+    "form_name": "Nome",
+    "form_name_placeholder": "Seu nome completo",
+    "form_email": "E-mail",
+    "form_email_placeholder": "seu@email.com",
+    "privacy_notice": "Seus dados estao seguros conosco e nao serao compartilhados.",
+    "no_ebooks": "Nenhum e-book disponivel",
+    "no_ebooks_subtitle": "Em breve teremos novos conteudos para voce.",
+    "not_found": "E-book nao encontrado",
+    "back_to_ebooks": "Voltar para E-books",
+    "other_ebooks": "Outros E-books"
+  }
+}
